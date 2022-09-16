@@ -1,0 +1,21 @@
+[
+    {
+      "name": "kibbleswap-kib-wwdoge",
+      "address": "0xc1c10b8beec82e840990a2c60a54ccdb39b2153f",
+      "decimals": "1e18",
+      "poolId": 0,
+      "chainId": 2000,
+      "lp0": {
+        "address": "0x1e1026ba0810e6391b0f86afa8a9305c12713b66",
+        "oracle": "tokens",
+        "oracleId": "KIB",
+        "decimals": "1e18"
+      },
+      "lp1": {
+        "address": "0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101",
+        "oracle": "tokens",
+        "oracleId": "DOGE",
+        "decimals": "1e18"
+      }
+    }
+]
